@@ -15,13 +15,16 @@ Les types de fichier possibles (cf les fichiers test fournis) sont :
 </br>
 L'application doit être basée sur un fichier d'initialisation qui permet de spécifier les types à lister, avec un </br>format à définir, comme par exemple :
 </br></br>
-```texte
+```text
+
 SVG:Scalable Vector Graphics:image
 ```
+
 </br>
-```texte
+```text
 MPEG:audio Monaural:son
 ```
+
 </br>
 ```python
 s = "Python syntax highlighting"
