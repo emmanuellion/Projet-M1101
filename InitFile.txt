@@ -1,0 +1,14 @@
+UTF-8 Unicode text:txt:texte simple
+OpenDocument Text:odt:document
+GIF image data:gif:image
+JPEG image data:jpg:image
+ISO Media:mp4:video
+document Microsoft Excel:xls:document
+HTML document:html:document
+PDF document:pdf:document
+PNG image data:png:image
+Scalable Vector Graphics image:svg:image
+Audio file with ID3 version 2.3.0:mp3:son
+MPEG ADTS:mp3:son
+gzip compressed data:gz:archive
+Microsoft Excel 2007+:xlsx:document
