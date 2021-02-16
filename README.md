@@ -15,11 +15,11 @@ Les types de fichier possibles (cf les fichiers test fournis) sont :
 </br>
 L'application doit être basée sur un fichier d'initialisation qui permet de spécifier les types à lister, avec un </br>format à définir, comme par exemple :
 </br></br>
-```
+```texte
 SVG:Scalable Vector Graphics:image
 ```
 </br>
-```
+```texte
 MPEG:audio Monaural:son
 ```
 </br>
