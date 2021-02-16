@@ -33,9 +33,25 @@ MPEG:audio Monaural:son
 
 <br><br>
 La sortie de l'application est la liste, pour chaque type, de la taille totale en megaoctets des fichiers de ce type, du nom, de la taille et du chemin du fichier de taille la plus grande de ce type, et de taille la plus petite. Si des fichiers ont une extension qui ne correspond pas à leur type, il faut les lister (soupçon de fraude).
-<br><br>
+</br></br>
 Les fichiers archive doivent être détectés et parcourus comme des répertoires, i.e. on liste également leurs tailles dans les autres types. Si on y trouve un fichier audio mp3, sa taille est ajoutée à la taille des fichiers mp3 globale par exemple.
-<br><br>
+</br></br>
 Attention, ne vous fiez pas aux noms ou aux extensions des fichiers. Certains fichiers ne seront pas reconnus (**data**), il faudra des catégories "divers", pour ces "data" supplémentaires.
-<br><br>
+</br></br>
 Vous pouvez apporter des ajouts aux points précédents (sortie en HTML, test date et heure...) mais ils ne seront notés en bonus que si les points obligatoires sont remplis.
+</br></br></br>
+|Critères                                           |Poids dans la note|
+|:-------------------------------------------------:|:----------------:|
+|fonctionne                                         |2                 |
+|	parcours des arborescences                        |1                 |
+|sortie liste et tailles de chaque type             |2                 |
+|sortie min max (nom, chemin, taille) de chaque type|2                 |
+|mauvaise extension!= type                          |2                 |
+|contenus des archives                              |2                 |
+|type divers                                        |1                 |
+|fichier initialisation                             |2                 |
+|passage des tests                                  |2                 |
+|commentaires/clarté / archive rendue               |2                 |
+|document                                           |2                 |
+|bonus (espaces, html)                              |1                 |
+
