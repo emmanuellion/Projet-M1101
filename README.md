@@ -41,7 +41,7 @@ Attention, ne vous fiez pas aux noms ou aux extensions des fichiers. Certains fi
 Vous pouvez apporter des ajouts aux points précédents (sortie en HTML, test date et heure...) mais ils ne seront notés en bonus que si les points obligatoires sont remplis.
 </br></br></br>
 |Critères                                           |Poids dans la note|
-|:-------------------------------------------------:|:----------------:|
+|---------------------------------------------------|:----------------:|
 |fonctionne                                         |2                 |
 |	parcours des arborescences                        |1                 |
 |sortie liste et tailles de chaque type             |2                 |
