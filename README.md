@@ -1,6 +1,6 @@
 # Projet-M1101
 
-On veut lister les fichiers d'un utilisateur, selon leurs types et leurs tailles. L'application en script Bash (uniquement, pas de développement dans un autre langage, pas d'appel à des applications) parcourt les répertoires et les sous-répertoires à partir d'un chemin de base, liste les fichiers présents en récupérant leur taille (via la commande ls par exemple) et détermine de quel type ils sont (via la commande **file**).
+On veut lister les fichiers d'un utilisateur, selon leurs types et leurs tailles. L'application en script Bash (uniquement, pas de développement dans un autre langage, pas d'appel à des applications) parcourt les répertoires et les sous-répertoires à partir d'un chemin de base, liste les fichiers présents en récupérant leur taille (via la commande `ls` par exemple) et détermine de quel type ils sont (via la commande `file`).
 </br>
 Les types de fichier possibles (cf les fichiers test fournis) sont :
 </br></br>
@@ -24,13 +24,6 @@ SVG:Scalable Vector Graphics:image
 
 ```text
 MPEG:audio Monaural:son
-```
-
-</br>
-
-```python
-s = "Python syntax highlighting"
-print s
 ```
 
 <br><br>
