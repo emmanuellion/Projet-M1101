@@ -15,21 +15,24 @@ Les types de fichier possibles (cf les fichiers test fournis) sont :
 </br>
 L'application doit être basée sur un fichier d'initialisation qui permet de spécifier les types à lister, avec un </br>format à définir, comme par exemple :
 </br></br>
-```text
 
+```text
 SVG:Scalable Vector Graphics:image
 ```
 
 </br>
+
 ```text
 MPEG:audio Monaural:son
 ```
 
 </br>
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
+
 <br><br>
 La sortie de l'application est la liste, pour chaque type, de la taille totale en megaoctets des fichiers de ce type, du nom, de la taille et du chemin du fichier de taille la plus grande de ce type, et de taille la plus petite. Si des fichiers ont une extension qui ne correspond pas à leur type, il faut les lister (soupçon de fraude).
 <br><br>
