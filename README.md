@@ -43,7 +43,7 @@ Vous pouvez apporter des ajouts aux points précédents (sortie en HTML, test da
 |Critères                                           |Poids dans la note|
 |---------------------------------------------------|:----------------:|
 |fonctionne                                         |2                 |
-|	parcours des arborescences                        |1                 |
+|parcours des arborescences                         |1                 |
 |sortie liste et tailles de chaque type             |2                 |
 |sortie min max (nom, chemin, taille) de chaque type|2                 |
 |mauvaise extension!= type                          |2                 |
